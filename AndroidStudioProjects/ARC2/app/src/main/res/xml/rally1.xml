@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ss>
+    <point> <lat>53.799922053721964</lat><lon>27.695297384154237</lon><isVisible>true</isVisible><category>1</category><lim>60</lim><Tspeed>50</Tspeed><Ttime>120</Ttime></point>
+    <point><lat>53.80017268266241</lat><lon>27.69524329812234</lon><isVisible>true</isVisible><category>1</category><lim>60</lim><Tspeed>50</Tspeed><Ttime>120</Ttime></point>
+    <point><lat>53.80043995091206</lat><lon>27.69517207932383</lon><isVisible>false</isVisible><category>3</category><lim>90</lim><Tspeed>20</Tspeed><Ttime>180</Ttime></point>
+    <point><lat>53.800710405577746</lat><lon>27.69511967875289</lon><isVisible>true</isVisible><category>5</category><lim>60</lim><Tspeed>35</Tspeed><Ttime>160</Ttime></point>
+    <point><lat>53.800969595655616</lat><lon>27.69505825180632</lon><isVisible>false</isVisible><category>3</category><lim>50</lim><Tspeed>35</Tspeed><Ttime>170</Ttime></point>
+    <point><lat>53.80121077570516</lat><lon>27.694975906714237</lon><isVisible>true</isVisible><category>1</category><lim>50</lim><Tspeed>35</Tspeed><Ttime>170</Ttime></point>
+</ss>
